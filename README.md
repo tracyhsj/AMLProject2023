@@ -42,4 +42,19 @@ The data contains the following fields:
 - `ind_ctop_fin_ult1`: Particular Account
 - `ind_ctpp_fin_ult1`: Particular Plus Account
 - `ind_deco_fin_ult1`: Short-term deposits
-- `
+
+- `ind_deme_fin_ult1`: Medium-term deposits
+- `ind_dela_fin_ult1`: Long-term deposits
+- `ind_ecue_fin_ult1`: e-account
+- `ind_fond_fin_ult1`: Funds
+- `ind_hip_fin_ult1`: Mortgage
+- `ind_plan_fin_ult1`: Pensions
+- `ind_pres_fin_ult1`: Loans
+- `ind_reca_fin_ult1`: Taxes
+- `ind_tjcr_fin_ult1`: Credit Card
+- `ind_valo_fin_ult1`: Securities
+- `ind_viv_fin_ult1`: Home Account
+- `ind_nomina_ult1`: Payroll
+- `ind_nom_pens_ult1`: Pensions
+- `ind_recibo_ult1`: Direct Debit
+
