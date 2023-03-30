@@ -1,6 +1,4 @@
 # Santander Product Recommendation
-![image](https://user-images.githubusercontent.com/108088548/228598828-08fbe984-779a-4f1c-a9a5-6046be757e81.png)
-
 
 ## Introduction
 
@@ -44,6 +42,7 @@ The data contains the following fields:
 - `ind_ctop_fin_ult1`: Particular Account
 - `ind_ctpp_fin_ult1`: Particular Plus Account
 - `ind_deco_fin_ult1`: Short-term deposits
+
 - `ind_deme_fin_ult1`: Medium-term deposits
 - `ind_dela_fin_ult1`: Long-term deposits
 - `ind_ecue_fin_ult1`: e-account
@@ -58,3 +57,4 @@ The data contains the following fields:
 - `ind_nomina_ult1`: Payroll
 - `ind_nom_pens_ult1`: Pensions
 - `ind_recibo_ult1`: Direct Debit
+
